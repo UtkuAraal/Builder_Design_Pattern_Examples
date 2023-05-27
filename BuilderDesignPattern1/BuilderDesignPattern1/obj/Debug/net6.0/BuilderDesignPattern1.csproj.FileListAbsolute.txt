@@ -1,0 +1,15 @@
+D:\C#\BuilderDesignPattern1\BuilderDesignPattern1\bin\Debug\net6.0\BuilderDesignPattern1.exe
+D:\C#\BuilderDesignPattern1\BuilderDesignPattern1\bin\Debug\net6.0\BuilderDesignPattern1.deps.json
+D:\C#\BuilderDesignPattern1\BuilderDesignPattern1\bin\Debug\net6.0\BuilderDesignPattern1.runtimeconfig.json
+D:\C#\BuilderDesignPattern1\BuilderDesignPattern1\bin\Debug\net6.0\BuilderDesignPattern1.dll
+D:\C#\BuilderDesignPattern1\BuilderDesignPattern1\bin\Debug\net6.0\BuilderDesignPattern1.pdb
+D:\C#\BuilderDesignPattern1\BuilderDesignPattern1\obj\Debug\net6.0\BuilderDesignPattern1.csproj.AssemblyReference.cache
+D:\C#\BuilderDesignPattern1\BuilderDesignPattern1\obj\Debug\net6.0\BuilderDesignPattern1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\BuilderDesignPattern1\BuilderDesignPattern1\obj\Debug\net6.0\BuilderDesignPattern1.AssemblyInfoInputs.cache
+D:\C#\BuilderDesignPattern1\BuilderDesignPattern1\obj\Debug\net6.0\BuilderDesignPattern1.AssemblyInfo.cs
+D:\C#\BuilderDesignPattern1\BuilderDesignPattern1\obj\Debug\net6.0\BuilderDesignPattern1.csproj.CoreCompileInputs.cache
+D:\C#\BuilderDesignPattern1\BuilderDesignPattern1\obj\Debug\net6.0\BuilderDesignPattern1.dll
+D:\C#\BuilderDesignPattern1\BuilderDesignPattern1\obj\Debug\net6.0\refint\BuilderDesignPattern1.dll
+D:\C#\BuilderDesignPattern1\BuilderDesignPattern1\obj\Debug\net6.0\BuilderDesignPattern1.pdb
+D:\C#\BuilderDesignPattern1\BuilderDesignPattern1\obj\Debug\net6.0\BuilderDesignPattern1.genruntimeconfig.cache
+D:\C#\BuilderDesignPattern1\BuilderDesignPattern1\obj\Debug\net6.0\ref\BuilderDesignPattern1.dll

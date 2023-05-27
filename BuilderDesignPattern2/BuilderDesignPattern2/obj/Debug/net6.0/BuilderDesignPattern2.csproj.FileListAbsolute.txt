@@ -1,0 +1,15 @@
+D:\C#\BuilderDesignPattern2\BuilderDesignPattern2\bin\Debug\net6.0\BuilderDesignPattern2.exe
+D:\C#\BuilderDesignPattern2\BuilderDesignPattern2\bin\Debug\net6.0\BuilderDesignPattern2.deps.json
+D:\C#\BuilderDesignPattern2\BuilderDesignPattern2\bin\Debug\net6.0\BuilderDesignPattern2.runtimeconfig.json
+D:\C#\BuilderDesignPattern2\BuilderDesignPattern2\bin\Debug\net6.0\BuilderDesignPattern2.dll
+D:\C#\BuilderDesignPattern2\BuilderDesignPattern2\bin\Debug\net6.0\BuilderDesignPattern2.pdb
+D:\C#\BuilderDesignPattern2\BuilderDesignPattern2\obj\Debug\net6.0\BuilderDesignPattern2.csproj.AssemblyReference.cache
+D:\C#\BuilderDesignPattern2\BuilderDesignPattern2\obj\Debug\net6.0\BuilderDesignPattern2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\BuilderDesignPattern2\BuilderDesignPattern2\obj\Debug\net6.0\BuilderDesignPattern2.AssemblyInfoInputs.cache
+D:\C#\BuilderDesignPattern2\BuilderDesignPattern2\obj\Debug\net6.0\BuilderDesignPattern2.AssemblyInfo.cs
+D:\C#\BuilderDesignPattern2\BuilderDesignPattern2\obj\Debug\net6.0\BuilderDesignPattern2.csproj.CoreCompileInputs.cache
+D:\C#\BuilderDesignPattern2\BuilderDesignPattern2\obj\Debug\net6.0\BuilderDesignPattern2.dll
+D:\C#\BuilderDesignPattern2\BuilderDesignPattern2\obj\Debug\net6.0\refint\BuilderDesignPattern2.dll
+D:\C#\BuilderDesignPattern2\BuilderDesignPattern2\obj\Debug\net6.0\BuilderDesignPattern2.pdb
+D:\C#\BuilderDesignPattern2\BuilderDesignPattern2\obj\Debug\net6.0\BuilderDesignPattern2.genruntimeconfig.cache
+D:\C#\BuilderDesignPattern2\BuilderDesignPattern2\obj\Debug\net6.0\ref\BuilderDesignPattern2.dll
